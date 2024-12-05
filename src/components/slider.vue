@@ -83,17 +83,4 @@ img:hover {
 	justify-content: center;
 	align-items: center;
 }
-
-.swiper-button-next,
-.swiper-button-prev {
-	color: #007bff;
-}
-
-.swiper-pagination-bullet {
-	background: #007bff;
-}
-
-.swiper-pagination-bullet-active {
-	background: #0056b3;
-}
 </style>
