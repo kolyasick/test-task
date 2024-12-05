@@ -1,0 +1,5 @@
+@import url('/src/assets/reset');
+
+body {
+    font-family: "Inter", sans-serif;
+}
