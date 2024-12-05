@@ -10,7 +10,7 @@ export const useUserStore = defineStore("user", {
 	actions: {
 		async login(login) {
 			this.user.login = login
-      await router.push('/')
+			await router.push("/")
 		},
 	},
 })
