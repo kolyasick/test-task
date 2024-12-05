@@ -7,8 +7,6 @@ const route = useRoute()
 
 <template>
 	<Header v-if="route.fullPath !== '/login'" />
-
-	
 	<RouterView />
 	
 </template>

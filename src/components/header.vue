@@ -46,4 +46,6 @@ const login = computed(() => {
     cursor: pointer;
     font-size: 12px;
 }
+
+
 </style>
